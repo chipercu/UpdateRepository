@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaebfaea-82a1-472f-bb38-4df053814906" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ALAudio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ALAudio.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ActionName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ActionName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ActionNamePatch-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ActionNamePatch-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/AdditionalEffect.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/AdditionalItemgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Armorgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/BRItemgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CastleName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CastleName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Charcreategrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Chargrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CheckGrp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ClassInfo-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ClassInfo-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Cloak.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CommandName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CommandName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CommandNamePatch-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CommandNamePatch-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Core.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Core.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/CreditFont.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Creditgrp-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Creditgrp-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/D3DDrv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/D3DDrv.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DBDropData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DBItemData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DBNpcData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DBSpoilData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DailyQuests-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DailyQuests-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DatInfo.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DatInfo.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DefOpenAL32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/DisableSkillAnimData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EULA-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EULA-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Editor.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Editor.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EmuDev.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EmuDev.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Engine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Engine.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Engine.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EnterEventgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Env.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/EtcItemgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ExceptionMinimapData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Fire.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Fire.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/GamePlay.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/GameTip-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/GameTip-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/GoodsIcon.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/GradeData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Hair.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Hairaccessorylocgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/HelpData-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/HelpData-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Hennagrp-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Hennagrp-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/HuntingZone-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/HuntingZone-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/IFC23.DLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InstantZoneData-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InstantZoneData-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InterfaceSounds/chat_pm.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InterfaceSounds/mail.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InterfaceSounds/workshop_fail.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/InterfaceSounds/workshop_succ.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/IpDrv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/IpDrv.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/IpDrv.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ItemName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ItemName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/JudsonBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/L2CompiledShader.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/L2DB.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/L2ForecF.ffe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/L2PreCompiledShader.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LargeFont-e.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LargeFont-ru.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LargeFont.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LifeStoneData-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LifeStoneData-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Lineage2RU.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageCreature.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageCreature.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageDeco.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageEffect.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageEffectWD27.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster2.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster2.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster3.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster3.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster4.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster4.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster5.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster5.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster6.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageMonster6.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpc.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpc.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpc2.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpc2.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpcEV.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageNpcEv.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageSceneInfo.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageSkillEffect.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageVehicle.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageWarrior.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LineageWarrior.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/LoginSettings.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Logongrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/MacroPreset-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/MacroPreset-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/MantleException.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Microsoft.VC80.OpenMP.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/MobSkillAnimgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/MusicInfo.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NSplash.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NWindow.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NWindow.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NpcName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NpcName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NpcString-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/NpcString-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Npcgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Obscene-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Obscene-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Option.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/PostEffectData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Predefinedshader.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ProductName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ProductName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/QuestName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/QuestName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RadarData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RadioData-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RadioData-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RaidData-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RaidData-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Recipe-c.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/RideData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ScenePlayerData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ServerName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ServerName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ShortcutAlias.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SkillName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SkillName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SkillSoundSource.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SkillSoundgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Skillgrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SmallFont-e.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SmallFont-ru.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SmallFont.gly" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/StaticObject-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/StaticObject-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SymbolName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SymbolName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SysString-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SysString-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SysStringPatch-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SysStringPatch-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SystemMsg-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SystemMsg-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SystemMsgPatch-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/SystemMsgPatch-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/TTFontInfo.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/TimeEnv0.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/TimeEnv1.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/TimeEnv2.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/TimeEnv3.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/UDebugMenu.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/UWindow.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/User.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/VehiclePartsGrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Weapongrp.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Wform.bm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/WinDrv.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/WinDrv.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Window.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/Window.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/WindowsInfo.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ZoneName-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ZoneName-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/bass.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/beecrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/bighead.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/chatfilter.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/clientdata.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/dsetup.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/encvag.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/fmodex.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/l2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/l2Second.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/localization.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/msxml4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/msxml4a.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/msxml4g.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/msxml4r.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/npkcrypt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/npkpdb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ntdll.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/ogg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/optiondata_client-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/optiondata_client-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/s_info.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/soulshot.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/transformdata.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/unichat.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/variationeffectgrp-e.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/variationeffectgrp-ru.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/vcomp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/vorbis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/vorbisfile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditableFiles/wrap_oal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/Interface.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/Interface.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/Interface.u" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/Interface.xdat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/l2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/l2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/l2.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadableFiles/l2.int" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpdateRepository.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2dwNLu8npdrz6e3BOAyNqtd0pa3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "last_opened_file_path": "C:/Users/a.kiperku/IdeaProjects/UpdateRepository/EditableFiles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaebfaea-82a1-472f-bb38-4df053814906" name="Changes" comment="" />
+      <created>1710915130548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710915130548</updated>
+      <workItem from="1710915131705" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
