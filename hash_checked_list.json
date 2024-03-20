@@ -1,10 +1,10 @@
 [
-  {"file" : "System/Interface.bin"},
-  {"file" : "System/Interface.ini"},
-  {"file" : "System/Interface.u"},
-  {"file" : "System/Interface.xdat"},
-  {"file" : "System/l2.dat"},
-  {"file" : "System/l2.exe"},
-  {"file" : "System/l2.ini"},
-  {"file" : "System/l2.int"}
+  "System/Interface.bin",
+  "System/Interface.ini",
+  "System/Interface.u",
+  "System/Interface.xdat",
+  "System/l2.dat",
+  "System/l2.exe",
+  "System/l2.ini",
+  "System/l2.int"
 ]
